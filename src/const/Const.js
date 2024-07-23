@@ -1,0 +1,7 @@
+export const CREATE_TOKEN_CONTRACT = "0x074c37302d8b451109ef66837d42f86360e40596b1619650393805c67bd28289"
+
+export const token_contract_address = '0x04718f5a0Fc34cC1AF16A1cdee98fFB20C31f5cD61D6Ab07201858f4287c938D'
+
+export const intent_content_contract_address='0x0168303e6ec9b0b545f2695503dd01f8ba03ebaaac9ef5587525f5958d68c67e';
+
+export const intent_iframe_contract_address='0x01bf1d9a3dfe83e61d3b2b401e6617f134a6db0423dc558a8b3772154ad5a299'
